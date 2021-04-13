@@ -458,7 +458,7 @@ img{
 }
 
 .header_active{
-  background: #0E1D28;
+  background: #B64D18;
 }
 
 .header_wrapper{
@@ -538,7 +538,7 @@ img{
   font-size: 50px;
   line-height: 60px;
   color: white;
-  margin-bottom: 22px;
+  margin-bottom: 40px;
 }
 
 .intro_subtilte{
@@ -546,7 +546,7 @@ img{
   color: white;
   font-size: 16px;
   line-height: 24px;
-  margin-bottom: 59px;
+  margin-bottom: 100px;
 }
 
 .search_form_info{
@@ -640,7 +640,7 @@ img{
 
 .benefits_card_title{
   font-weight: 500;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 24px;
   margin-bottom: 26px;
 }
@@ -896,13 +896,13 @@ img{
 }
 
 .top_card_desc{
-  font-size: 16px;
+  font-size: 20px;
   line-height: 24px;
   margin-bottom: 31px;
 }
 
 .top_card_more{
-  width: 118px;
+  width: 100px;
   padding: 12px 19px ;
   background-color: #006DFE;
   text-decoration: none;
@@ -946,7 +946,7 @@ img{
 /* Footer start */
 
 .footer{
-  background: #0E1D28;
+  background: #B64D18;
   padding: 119px 0;
 }
 
@@ -968,9 +968,10 @@ img{
 
 .footer_menu_title{
   font-weight: 500;
-  font-size: 18px;
+  font-size: 22px;
   line-height: 24px;
   color: white;
+  margin-bottom: 10px;
 }
 
 .footer-menu_link{
@@ -1106,7 +1107,7 @@ img{
     line-height: 48px;
   }
   .intro_subtilte{
-    font-size: 14px;
+    font-size: 16px;
   }
   .search_form_field {
     width: 100%;

@@ -23,6 +23,7 @@
     menu.classList.remove('header_nav_active')
   })
   if(window.innerWidth < 768){
+    console.log(1);
     for(let i = 0; i< menuLinks.length; i++){
       menuLinks[i].addEventListener('click', () => {
         menu.classList.remove('header_nav_active')
